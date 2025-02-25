@@ -58,11 +58,6 @@ Once you've [set up a Frappe site](https://frappeframework.com/docs/v14/user/en/
     bench --site [site name] install-app nbpos
     ```
 
-### App Downloads
-The mobile and tablet applications. 
-1. [Android POS Agent App](https://bit.ly/getposapp)
-2. [iOS POS Agent App](https://bit.ly/getposiosapp)
-
 ## Contributing
 - [Issue Guidelines](https://github.com/frappe/erpnext/wiki/Issue-Guidelines)
 - [Pull Request Requirements](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)
